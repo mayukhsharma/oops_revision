@@ -34,7 +34,7 @@ The word polymorphism means having many forms. In simple words, we can define po
     - There are a number of students studying in this world. There are some school students, for them study means to complete their homework in Few Subjects. And they are done. Their are some computer students like us, where study means coding, development, implementation work and daily learning something new. There are some medical guys, for them study means a lot of experiments on a number of objects and getting on new conclusions and many more. You see, We all are studying, learning, growing (doing same work ) but our requirements, output, working is different. That’s what Overloading is.
   - **OverRiding** : When a member function of a base class is redefined in its derived class with the same parameters and return type, it is called function overriding in C++. Now, if we use an object of the derived class to call this function, the function defined in the derived class is invoked. The base class function is said to be overridden.
     - Your father had a old but working bike which you got from him. You think the bike would be better just after some modifications like (painting, cleaning etc). And in this way, you have changed bike properties but bike’s requirements and output is still same just working is changed (more efficient). And That’s what OverRiding is.  
-Resources used : [link](https://qr.ae/pG3gRM), [link](https://techvidvan.com/tutorials/function-overloading-and-overriding-in-cpp/)
+Resources used : [link](https://qr.ae/pG3gRM) , [link](https://techvidvan.com/tutorials/function-overloading-and-overriding-in-cpp/)
 
 <ins>INHERITANCE</ins> :
 The capability of a class to derive properties and characteristics from another class is called Inheritance.  
